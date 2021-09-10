@@ -1,7 +1,7 @@
 {
   "name": "pokedex-demo",
   "version": "0.1.0",
-  "homepage": "http://andrejzaf.github.io/pokedex-react-dedployment"
+  "homepage": "http://andrejzaf.github.io/pokedex-react-dedployment",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
